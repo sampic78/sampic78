@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sampic78
 - 👀 I’m interested in Quantitative Finance
-- 🌱 I’m currently learning how to code with Python
-- 💞️ I’m looking to collaborate on nothing so far
+- 🌱 I’m currently learning how to use Deep Learning models for financial markets applications
+- 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me is by email :: michaudsamx@gmail.com
 
 <!---
